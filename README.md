@@ -5,7 +5,6 @@
     </a>
   </div>
   
-- 👋 Hi, I’m mingfan
 - 👀 I’m interested in Internet Technology
 - 🌱 I’m currently learning Java 、Cloud Computing
 - 💞️ I’m looking to collaborate on ...
