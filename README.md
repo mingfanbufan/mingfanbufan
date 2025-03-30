@@ -1,3 +1,10 @@
+  <!-- dynamic typing effect 动态打字效果 -->
+  <div align="center">
+    <a href="https://www.baolong.icu/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi 👋, I'm Ming Fan!&center=true&size=27&color=black" />
+    </a>
+  </div>
+  
 - 👋 Hi, I’m mingfan
 - 👀 I’m interested in Internet Technology
 - 🌱 I’m currently learning Java 、Cloud Computing
